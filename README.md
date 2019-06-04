@@ -1,6 +1,7 @@
 
 # Web-Technologies-1 project (health and fitness website)
 
+
 About the website
 
 Healthkraft is a healthcare website which combines traditional website design with the usability best practices. Their site offers quick and easy navigation, precise information and welcoming imagery on every page. There is a balanced use of text contents and visuals. This website is simple, yet effective. We present all the information that a patient or general visitor might need in great details. This makes our homepage very actionable and encourages the visitors to interact with the site. High-quality positive imagery is used throughout the site to send a positive message. There is also in-depth information about various diet plans, healthy recipes and food essentials, fitness, BMI calculators etc. Positive and active images are used throughout the site while presenting all the necessary information.
