@@ -1,4 +1,4 @@
-# webtech-project
+# Healthkraft
 
 About the website 
 
